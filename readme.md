@@ -14,6 +14,7 @@ Understand the business impact of reliability and how to measure what matters.
 Deep dive into the technical internals and tool comparisons.
 - **Telemetry:** [StatsD vs OpenTelemetry](/02-architecture/observability-deep-dive.md)
 - **Modern Stack:** [Advanced Datadog Features](/02-architecture/advanced-datadog-features.md)
+- **Alerting:** [Alerting and Incident Management](/02-architecture/alerting-incident-management.md)
 - **Benchmark:** [Tools Comparison Matrix](/02-architecture/monitoring-benchmark.md)
 
 ## 3. Hands-on Practice (sre-lab)
